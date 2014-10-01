@@ -40,6 +40,7 @@
 		FFAE7EA119DB70150036A27E /* SandboxTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SandboxTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFAE7EA619DB70150036A27E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FFAE7EA719DB70150036A27E /* SandboxTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SandboxTests.swift; sourceTree = "<group>"; };
+		FFAE7EB119DC5B2F0036A27E /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -89,6 +90,7 @@
 				FFAE7E9819DB70150036A27E /* Images.xcassets */,
 				FFAE7E9A19DB70150036A27E /* LaunchScreen.xib */,
 				FFAE7E8B19DB70150036A27E /* Supporting Files */,
+				FFAE7EB119DC5B2F0036A27E /* MyPlayground.playground */,
 			);
 			path = Sandbox;
 			sourceTree = "<group>";
