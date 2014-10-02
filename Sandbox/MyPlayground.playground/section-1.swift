@@ -8,3 +8,10 @@ let maxLoopConstant = 10;
 for index in 1...maxLoopConstant{
     println(index);
     }
+
+var i = 0;
+
+for i in 1...maxLoopConstant{
+    println(i);
+}
+
